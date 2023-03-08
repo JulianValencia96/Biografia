@@ -1,0 +1,25 @@
+img{
+    width: 300px;
+    height: 270px;
+}
+.contenedor{
+    display: flex;
+    width: 80%;
+    height: 350px;
+    margin: 0px auto;
+    /*border: 1px solid red;*/
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.izquierda{
+    width: 40%;
+    background-color: aquamarine;
+    margin: 10px;
+
+}
+.derecha{
+    
+}
+p{
+    text-align: justify;
+}
